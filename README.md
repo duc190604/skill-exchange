@@ -20,8 +20,8 @@ SkillExchange là một ứng dụng di động cho phép người dùng **trao 
 
 ```bash
 # Clone dự án
-git clone https://github.com/your-username/skillswap-app.git
-cd skillswap-app
+git clone https://github.com/duc190604/skill-exchange.git
+cd skill-exchange
 
 # Cài đặt dependencies
 npm install
