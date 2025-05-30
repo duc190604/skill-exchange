@@ -1,4 +1,4 @@
-# 🔁 SkillSwap – Ứng dụng trao đổi kỹ năng kiểu Tinder
+# 🔁 SkillExchange – Ứng dụng trao đổi kỹ năng kiểu Tinder
 
 SkillSwap là một ứng dụng di động cho phép người dùng **trao đổi kỹ năng với nhau** thông qua cơ chế "vuốt để ghép cặp" tương tự Tinder. Người dùng có thể đăng kỹ năng họ muốn chia sẻ, kỹ năng họ muốn học, và kết nối với những người phù hợp để cùng học tập và phát triển.
 
